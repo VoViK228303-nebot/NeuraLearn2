@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './src/index.css'; // Import Tailwind CSS
 import { Layout } from './components/Layout';
 import { ClarificationFlow } from './components/ClarificationFlow';
 import { CourseView } from './components/CourseView';
